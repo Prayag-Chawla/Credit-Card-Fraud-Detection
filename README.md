@@ -38,4 +38,17 @@ from pylab import rcParams
 
 The project is used by a lot of fintech and banking companies to analyse their market.
 
+## Accuracy 
+By running the test, we got an accuracy of 99.6 %
+
+
+
+##OUTPUT
+
+![image](https://user-images.githubusercontent.com/92213377/217342823-cadeb0c7-a57e-4b0d-aae6-8afe3359301a.png)
+![image](https://user-images.githubusercontent.com/92213377/217342864-273f3027-cd63-4a8f-9340-b81159e5b215.png)
+![image](https://user-images.githubusercontent.com/92213377/217342964-65170ee1-d651-4e4e-8cfb-e2eb5321e3c7.png)
+
+
+
 
